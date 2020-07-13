@@ -33,3 +33,4 @@ pkg install ruby -y
 gem install lolcat
 pkg install neofetch -y
 echo complete
+echo ketik exit dan masuk lagi untuk menyempurnakan | lolcat
