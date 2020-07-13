@@ -8,8 +8,6 @@ PS1='\033[36;1mroot@kali ~#\033[32;1m '
 
 
 clear
-figlet BP
-echo --------------------------------
-neofetch
-echo --------------------------------
+figlet BP | lolcat
 echo The Black Paper | lolcat
+date
