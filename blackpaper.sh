@@ -31,6 +31,6 @@ cp bash.bashrc ../../usr/etc
 pkg install curl -y
 pkg install ruby -y
 gem install lolcat
-pkg install neofetch -y
+pkg install neofetch  -y
 echo complete | lolcat
 echo ketik exit dan masuk lagi untuk menyempurnakan | lolcat
