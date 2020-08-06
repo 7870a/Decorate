@@ -27,7 +27,7 @@ echo Nama Tools:Decorate
 echo Team:The Black Paper Indonesia
 echo Tools Created By:7870a
 echo github:https://github.com/7870a
-echo Versi:1.0
+echo Versi:2.0
 echo ------------------------------
 echo $red
 echo Pilih Tema
